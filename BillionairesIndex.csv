@@ -1,0 +1,501 @@
+Rank,Name,Total_Net_Worth,LastChange,YTDChange,Country,Industry
+1,Elon Musk ,$311B,+$9.32B,+$141B,UnitedStates,Technology
+2,Jeff Bezos ,$195B,-$3.79B,+$5.06B,UnitedStates,Technology
+3,Bernard Arnault ,$167B,-$544M,+$52.7B,France,Consumer
+4,Bill Gates ,$136B,+$906M,+$4.40B,UnitedStates,Technology
+5,Larry Page ,$131B,+$1.71B,+$48.7B,UnitedStates,Technology
+6,Sergey Brin ,$126B,+$1.64B,+$46.7B,UnitedStates,Technology
+7,Mark Zuckerberg ,$121B,+$2.40B,+$17.3B,UnitedStates,Technology
+8,Steve Ballmer ,$118B,+$2.42B,+$37.6B,UnitedStates,Technology
+9,Larry Ellison ,$115B,+$331M,+$35.4B,UnitedStates,Technology
+10,Warren Buffett ,$105B,-$800M,+$17.0B,UnitedStates,Diversified
+11,Mukesh Ambani ,$95.8B,-$2.56B,+$19.1B,India,Energy
+12,Francoise Bettencourt Meyers,$90.4B,-$597M,+$14.6B,France,Consumer
+13,Gautam Adani ,$77.1B,+$2.52B,+$43.3B,India,Industrial
+14,Amancio Ortega ,$77.0B,-$532M,+$10.5B,Spain,Retail
+15,Jim Walton ,$66.5B,+$315M,+$4.02B,UnitedStates,Retail
+16,Rob Walton ,$66.0B,+$291M,+$3.41B,UnitedStates,Retail
+17,Zhong Shanshan ,$65.2B,-$68.5M,-$13.0B,China,Diversified
+18,Alice Walton ,$64.6B,+$325M,+$2.26B,UnitedStates,Retail
+19,Carlos Slim ,$63.4B,-$280M,+$7.13B,Mexico,Diversified
+20,Phil Knight&family ,$62.6B,+$927M,+$8.75B,UnitedStates,Consumer
+21,Charles Koch ,$60.2B,-$643M,+$3.32B,UnitedStates,Industrial
+22,Julia Flesher Koch&family,$60.2B,-$643M,+$3.32B,UnitedStates,Industrial
+23,Zeng Yuqun ,$57.3B,+$2.74B,+$26.3B,HongKong,Industrial
+24,MacKenzie Scott ,$56.9B,-$1.29B,-$1.59B,UnitedStates,Technology
+25,Michael Dell ,$55.9B,-$10.1M,+$15.8B,UnitedStates,Technology
+26,Francois Pinault ,$50.2B,-$678M,+$2.44B,France,Consumer
+27,Ma Huateng ,$49.2B,-$671M,-$7.28B,China,Technology
+28,Jacqueline Badger Mars,$47.8B,-$1.01B,+$6.04B,UnitedStates,Food&Beverage
+29,John Mars ,$47.8B,-$1.01B,+$6.04B,UnitedStates,Food&Beverage
+30,Len Blavatnik ,$45.1B,-$221M,+$6.95B,UnitedStates,Diversified
+31,Zhang Yiming ,$44.5B,$0 ,+$19.5B,China,Technology
+32,Jack Ma ,$43.2B,-$478M,-$7.39B,China,Technology
+33,Stephen Schwarzman ,$39.8B,-$221M,+$18.3B,UnitedStates,Finance
+34,Azim Premji ,$37.4B,-$616M,+$12.0B,India,Technology
+35,Klaus-Michael Kuehne ,$36.0B,-$367M,+$11.8B,Germany,Industrial
+36,Giovanni Ferrero&family ,$34.2B,-$866M,+$112M,Italy,Food&Beverage
+37,Tadashi Yanai ,$34.1B,+$333M,-$11.1B,Japan,Retail
+38,Takemitsu Takizaki ,$33.8B,+$1.38B,+$1.41B,Japan,Technology
+39,Leonard Lauder ,$33.5B,-$102M,+$5.66B,UnitedStates,Consumer
+40,Leonid Mikhelson ,$33.3B,-$249M,+$8.58B,RussianFederation,Energy
+41,Leonardo Del Vecchio,$32.5B,+$595M,+$7.77B,Italy,Consumer
+42,Vladimir Potanin ,$31.8B,-$292M,+$1.76B,RussianFederation,Commodities
+43,Pallonji Mistry ,$31.8B,-$213M,+$7.23B,Ireland,Industrial
+44,William Ding ,$31.4B,-$718M,+$894M,China,Technology
+45,Colin Huang ,$31.3B,-$1.24B,-$31.3B,China,Technology
+46,Li Ka-shing ,$31.3B,+$8.50M,+$226M,HongKong,Real Estate
+47,Li Shu Fu,$31.0B,+$1.47B,+$8.83B,China,Industrial
+48,Alain Wertheimer ,$30.6B,+$169M,-$8.85B,France,Consumer
+49,Gerard Wertheimer ,$30.6B,+$169M,-$8.85B,France,Consumer
+50,He Xiangjian ,$29.7B,+$186M,-$7.12B,China,Consumer
+51,Dieter Schwarz ,$29.5B,-$322M,+$3.19B,Germany,Retail
+52,Dan Gilbert ,$29.4B,+$991M,-$3.85B,UnitedStates,Real Estate
+53,Alexey Mordashov ,$28.8B,-$310M,+$5.76B,RussianFederation,Industrial
+54,Vladimir Lisin ,$28.6B,-$292M,+$4.70B,RussianFederation,Industrial
+55,Shiv Nadar ,$28.4B,-$258M,+$4.24B,India,Technology
+56,Eric Schmidt ,$28.1B,+$348M,+$8.71B,UnitedStates,Technology
+57,Dustin Moskovitz ,$28.0B,+$497M,+$11.3B,UnitedStates,Technology
+58,Scott Farquhar ,$27.7B,+$2.44B,+$13.3B,Australia,Technology
+59,Mike Cannon-Brookes ,$27.7B,+$2.44B,+$13.3B,Australia,Technology
+60,Wei Jianjun ,$27.6B,+$749M,+$14.8B,China,Consumer
+61,Abigail Johnson ,$27.4B,-$313M,+$3.41B,UnitedStates,Finance
+62,Miriam Adelson ,$26.9B,-$402M,+$26.9B,UnitedStates,Entertainment
+63,Yang Huiyan ,$26.3B,-$541M,-$3.74B,China,Real Estate
+64,James Simons ,$26.0B,$0 ,+$3.23B,UnitedStates,Finance
+65,Wang Chuan-Fu ,$25.9B,+$214M,+$9.80B,China,Consumer
+66,James Dyson ,$25.1B,-$67.7M,+$1.23B,UnitedKingdom,Consumer
+67,Henry Cheng ,$24.9B,+$264M,+$4.52B,HongKong,Retail
+68,Pang Kang ,$24.7B,+$76.3M,-$7.14B,China,Food&Beverage
+69,Vagit Alekperov ,$24.5B,-$237M,+$7.25B,RussianFederation,Energy
+70,Huang Shilin ,$24.4B,+$1.16B,+$11.1B,China,Industrial
+71,Radhakishan Damani ,$24.3B,-$255M,+$9.33B,India,Retail
+72,Jensen Huang ,$23.6B,+$557M,+$11.3B,UnitedStates,Technology
+73,Gennady Timchenko ,$23.3B,-$317M,+$6.67B,RussianFederation,Diversified
+74,Lukas Walton ,$23.1B,+$118M,+$556M,UnitedStates,Retail
+75,Susanne Klatten ,$23.0B,-$304M,+$95.8M,Germany,Industrial
+76,Lee Shau Kee,$22.9B,+$139M,+$1.78B,HongKong,Real Estate
+77,Masayoshi Son ,$22.9B,+$132M,-$4.95B,Japan,Technology
+78,Carl Icahn ,$22.8B,-$36.9M,+$2.57B,UnitedStates,Diversified
+79,Thomas Peterffy ,$22.5B,+$74.8M,+$2.96B,UnitedStates,Finance
+80,Thomas Frist ,$22.5B,-$14.7M,+$6.71B,UnitedStates,Health Care
+81,John Menard ,$22.5B,+$114M,+$4.06B,UnitedStates,Retail
+82,Qin Yinglin ,$22.4B,+$702M,-$352M,China,Food&Beverage
+83,Ken Griffin ,$22.0B,+$505M,+$804M,UnitedStates,Finance
+84,Lakshmi Mittal ,$21.8B,-$65.8M,+$5.36B,India,Commodities
+85,Alisher Usmanov ,$21.8B,+$35.0M,+$644M,RussianFederation,Diversified
+86,Thomas Struengmann ,$21.6B,-$335M,+$11.5B,Germany,Health Care
+87,Andreas Struengmann ,$21.6B,-$335M,+$11.5B,Germany,Health Care
+88,Jorge Paulo Lemann,$21.4B,-$551M,-$2.45B,Brazil,Food&Beverage
+89,Stefan Quandt ,$21.2B,-$244M,+$2.42B,Germany,Industrial
+90,Ernesto Bertarelli&family ,$21.1B,-$99.9M,+$1.10B,Switzerland,Diversified
+91,Iris Fontbona&family ,$21.0B,-$308M,+$809M,Chile,Commodities
+92,Li Xiting ,$21.0B,+$713M,-$2.22B,Singapore,Health Care
+93,Zhang Zhidong ,$20.8B,-$307M,-$3.48B,China,Technology
+94,Elaine Marshall ,$20.7B,-$224M,+$1.12B,UnitedStates,Industrial
+95,Forrest Li ,$20.5B,-$554M,+$9.55B,Singapore,Technology
+96,Peter Woo ,$20.1B,+$195M,+$2.09B,HongKong,Real Estate
+97,Wang Xing ,$20.0B,-$230M,-$1.73B,China,Technology
+98,Jiang Rensheng ,$20.0B,+$351M,+$1.67B,China,Health Care
+99,Stefan Persson ,$19.7B,-$774M,-$1.50B,Sweden,Retail
+100,Gustaf Douglas&family ,$19.5B,-$396M,+$6.07B,Sweden,Diversified
+101,Donald Newhouse ,$19.3B,-$499M,+$806M,UnitedStates,Media&Telecom
+102,Aliko Dangote ,$19.2B,+$119M,+$1.41B,Nigeria,Industrial
+103,Robert Kuok ,$19.0B,-$51.8M,+$1.58B,Malaysia,Diversified
+104,Laurene Powell Jobs,$18.9B,-$19.6M,-$2.34B,UnitedStates, Media&Telecom
+105,Lei Jun ,$18.9B,-$386M,-$12.4B,China,Technology
+106,Roman Abramovich ,$18.9B,-$192M,+$440M,RussianFederation,Diversified
+107,Budi Hartono ,$18.8B,+$225M,+$1.39B,Indonesia,Diversified
+108,Xu Hang ,$18.7B,+$630M,-$570M,HongKong,Health Care
+109,Jay Chaudhry ,$18.6B,+$143M,+$6.80B,UnitedStates,Technology
+110,Viktor Vekselberg ,$18.5B,+$5.97M,+$2.42B,RussianFederation,Industrial
+111,Wang Wei ,$18.4B,+$384M,-$6.78B,China,Services
+112,Andrey Melnichenko ,$18.3B,+$11.5M,+$194M,RussianFederation,Industrial
+113,Ernie Garcia ,$18.2B,+$276M,+$2.76B,UnitedStates,Consumer
+114,Sara Mota de Larrea&family,$18.1B,+$13.0M,+$1.29B,Mexico,Commodities
+115,Gina Rinehart ,$18.1B,+$430M,-$10.6B,Australia,Commodities
+116,Michael Hartono ,$17.7B,+$224M,+$1.40B,Indonesia,Diversified
+117,Richard Liu ,$17.7B,-$556M,-$2.04B,China,Technology
+118,Alwaleed Bin Talal,$17.6B,-$49.3M,+$1.34B,SaudiArabia,Diversified
+119,Dave Duffield ,$17.6B,+$160M,+$2.86B,UnitedStates,Technology
+120,Eduardo Saverin ,$17.5B,+$354M,+$2.74B,Brazil,Technology
+121,Chen Bang ,$17.1B,+$913M,-$3.42B,China,Health Care
+122,Donald Bren ,$16.8B,$0 ,+$2.04B,UnitedStates,Real Estate
+123,Andrew Forrest ,$16.5B,-$130M,-$5.81B,Australia,Commodities
+124,Uday Kotak ,$16.5B,-$520M,+$137M,India,Finance
+125,Charlene de Carvalho-Heineken,$16.3B,-$227M,+$228M,Netherlands,Food&Beverage
+126,Cyrus Poonawalla ,$16.3B,+$256M,+$41.0M,India,Health Care
+127,Hasso Plattner ,$16.3B,-$246M,+$1.05B,Germany,Technology
+128,Ned Johnson III,$16.2B,-$136M,+$2.44B,UnitedStates,Finance
+129,Vicky Safra ,$16.1B,$0 ,+$1.55B,Greece,Finance
+130,Jim Goodnight ,$16.0B,+$133M,+$2.92B,UnitedStates,Technology
+131,Karl Albrecht Jr,$15.6B,-$171M,+$1.68B,Germany,Retail
+132,Beate Heister ,$15.6B,-$171M,+$1.68B,Germany,Retail
+133,Ray Dalio ,$15.6B,$0 ,+$45.0M,UnitedStates,Finance
+134,Pei Zhenhua ,$15.5B,+$669M,+$7.60B,China,Industrial
+135,Charoen Sirivadhanabhakdi ,$15.1B,-$85.4M,-$592M,Thailand,Food&Beverage
+136,Dietrich Mateschitz ,$15.1B,-$16.2M,-$3.06B,Austria,Food&Beverage
+137,Mikhail Fridman ,$15.1B,-$115M,+$627M,RussianFederation,Diversified
+138,Li Zhenguo ,$15.0B,+$1.29B,+$6.72B,China,Energy
+139,Ricardo Salinas ,$15.0B,+$143M,+$2.04B,Mexico,Diversified
+140,David Tepper ,$14.9B,$0 ,+$2.05B,UnitedStates,Finance
+141,Jim Ratcliffe ,$14.8B,$0 ,-$12.3B,UnitedKingdom,Industrial
+142,Harold Hamm ,$14.8B,-$47.5M,+$9.73B,UnitedStates,Energy
+143,Goh Cheng Liang,$14.7B,+$18.2M,-$12.9B,Singapore,Industrial
+144,Philip Anschutz ,$14.7B,-$29.6M,+$906M,UnitedStates,Diversified
+145,Sherry Brydson ,$14.6B,+$53.0M,+$3.65B,Canada,Media&Telecom
+146,Wang Wenyin ,$14.6B,-$222M,+$4.75B,China,Commodities
+147,Ma Jianrong ,$14.6B,-$439M,+$1.45B,China,Consumer
+148,Lv Xiang-yang ,$14.5B,+$120M,+$10.1B,China,Consumer
+149,Jack Dorsey ,$14.4B,-$347M,+$1.81B,UnitedStates,Technology
+150,Brian Chesky ,$14.3B,-$79.5M,+$1.83B,UnitedStates,Services
+151,Victor Rashnikov ,$14.3B,-$63.6M,+$3.10B,RussianFederation,Industrial
+152,Lui Che-Woo ,$14.1B,+$51.4M,-$4.27B,HongKong,Entertainment
+153,Lin Jianhua ,$14.1B,+$613M,+$6.87B,China,Technology
+154,Mikhail Prokhorov ,$14.0B,+$18.8M,+$1.26B,RussianFederation,Diversified
+155,Sam Bankman-Fried ,$14.0B,+$189M,+$12.3B,UnitedStates,Finance
+156,Charles Schwab ,$13.9B,+$4.84M,+$3.98B,UnitedStates,Finance
+157,Reinhold Wuerth ,$13.8B,$0 ,-$2.52B,Germany,Industrial
+158,Dilip Shanghvi ,$13.7B,-$252M,+$3.46B,India,Health Care
+159,Jan Koum ,$13.6B,$0 ,+$1.59B,UnitedStates,Technology
+160,Wu Yajun ,$13.6B,-$137M,-$2.51B,China,Real Estate
+161,Melker Schorling ,$13.6B,-$244M,+$2.19B,Sweden,Diversified
+162,Zhang Bo ,$13.6B,+$217M,+$7.23B,China,Industrial
+163,Eric Yuan ,$13.5B,-$91.5M,-$2.91B,UnitedStates,Technology
+164,Zhang Congyuan ,$13.5B,-$143M,+$8.41B,Taiwan,Industrial
+165,Robert Pera ,$13.4B,-$44.3M,+$1.21B,UnitedStates,Technology
+166,Charles Ergen ,$13.3B,-$32.8M,+$2.62B,UnitedStates,Media&Telecom
+167,Leon Black ,$13.1B,-$125M,+$3.15B,UnitedStates,Finance
+168,Gong Hongjia ,$13.0B,-$14.0M,+$2.94B,China,Technology
+169,Savitri Jindal ,$13.0B,+$20.3M,+$5.65B,India,Commodities
+170,Hugh Grosvenor ,$12.9B,$0 ,+$205M,UnitedKingdom,Real Estate
+171,Tobi Lutke ,$12.4B,+$129M,+$2.60B,Canada,Technology
+172,George Roberts ,$12.4B,+$36.7M,+$4.06B,UnitedStates,Finance
+173,Fan Hongwei ,$12.4B,+$33.7M,-$133M,China,Energy
+174,Brian Armstrong ,$12.2B,+$28.8M,+$2.14B,UnitedStates,Technology
+175,David Geffen ,$12.2B,-$155M,+$1.13B,UnitedStates,Entertainment
+176,Ugur Sahin ,$12.2B,-$220M,+$8.73B,Germany,Health Care
+177,Dang Yanbao ,$12.2B,-$82.1M,+$2.76B,China,Energy
+178,Liu Hanyuan ,$12.2B,+$343M,+$4.74B,China,Industrial
+179,Sun Piaoyang ,$12.1B,+$83.3M,-$9.21B,China,Health Care
+180,Kumar Birla ,$12.0B,-$39.8M,+$5.18B,India,Industrial
+181,Henry Kravis ,$12.0B,+$34.1M,+$3.77B,UnitedStates,Finance
+182,Marijke Mars ,$11.9B,-$253M,+$1.51B,UnitedStates,Food&Beverage
+183,Victoria Mars ,$11.9B,-$253M,+$1.51B,UnitedStates,Food&Beverage
+184,Pamela Mars-Wright ,$11.9B,-$253M,+$1.51B,UnitedStates,Food&Beverage
+185,Valerie Mars ,$11.9B,-$253M,+$1.51B,UnitedStates,Food&Beverage
+186,Jorge Moll&family ,$11.9B,-$22.4M,-$2.47B,Brazil,Health Care
+187,Joe Gebbia ,$11.8B,-$70.4M,+$1.58B,UnitedStates,Services
+188,Melinda French Gates,$11.8B,-$53.0M,+$11.8B,UnitedStates,Diversified
+189,Robin Li ,$11.8B,-$452M,-$3.84B,China,Technology
+190,Nathan Blecharczyk ,$11.8B,-$68.3M,+$1.50B,UnitedStates,Services
+191,Liu Jincheng ,$11.7B,-$29.9M,+$3.65B,China,Industrial
+192,Eyal Ofer ,$11.7B,+$4.94M,+$1.35B,Israel,Services
+193,Alejandro Santo Domingo&family,$11.7B,-$259M,-$821M,Colombia,Food&Beverage
+194,Steven Rales ,$11.6B,+$243M,+$3.38B,UnitedStates,Industrial
+195,Sarath Ratanavadi ,$11.5B,-$247M,+$2.29B,Thailand,Energy
+196,Raymond Kwok ,$11.5B,+$41.3M,+$341M,HongKong,Real Estate
+197,Jim Davis ,$11.5B,+$76.0M,-$2.18B,UnitedStates,Consumer
+198,Marc Benioff ,$11.5B,+$30.6M,+$2.54B,UnitedStates,Technology
+199,Sunil Mittal ,$11.4B,-$103M,+$2.55B,India,Media&Telecom
+200,Paolo Rocca&family ,$11.4B,-$140M,+$1.41B,Italy,Commodities
+201,Patrick Collison ,$11.4B,$0 ,+$7.08B,Ireland,Technology
+202,John Collison ,$11.4B,$0 ,+$7.08B,Ireland,Technology
+203,Suleiman Kerimov ,$11.3B,-$98.1M,+$1.44B,RussianFederation,Commodities
+204,Dmitry Rybolovlev ,$11.3B,-$6.38M,+$888M,RussianFederation,Diversified
+205,Qi Shi ,$11.2B,+$179M,+$1.03B,China,Finance
+206,Stan Kroenke ,$11.2B,$0 ,+$2.86B,UnitedStates,Real Estate
+207,Jin Baofang ,$11.2B,+$1.01B,+$6.46B,China,Energy
+208,Micky Arison ,$11.2B,+$16.3M,+$1.12B,UnitedStates,Entertainment
+209,Gang Ye ,$11.2B,-$309M,+$4.88B,Singapore,Technology
+210,Brian Kim ,$11.2B,-$59.4M,+$4.22B,Korea,Technology
+211,Pierre Omidyar ,$11.1B,+$2.80M,-$143M,UnitedStates,Technology
+212,Thomas Kwok ,$11.1B,+$37.3M,+$328M,HongKong,Real Estate
+213,Steve Cohen ,$11.1B,+$5.43M,+$920M,UnitedStates,Finance
+214,Rinat Akhmetov ,$11.1B,-$103M,+$3.53B,Ukraine,Industrial
+215,Carl Bennet ,$11.0B,-$228M,+$4.18B,Sweden,Finance
+216,Anders Holch Povlsen&family,$11.0B,-$115M,+$1.65B,Denmark,Retail
+217,John Grayken ,$11.0B,-$76.6M,+$2.80B,Ireland,Finance
+218,Zhou Qunfei ,$11.0B,+$690M,-$4.02B,China,Technology
+219,Antonia Axson Johnson,$11.0B,-$45.9M,+$1.86B,Sweden,Industrial
+220,Bobby Murphy ,$10.7B,-$357M,+$657M,UnitedStates,Technology
+221,Heinrich Deichmann&family ,$10.7B,-$179M,+$140M,Germany,Retail
+222,Harry Triguboff ,$10.7B,$0 ,+$1.01B,Australia,Real Estate
+223,Michael Platt ,$10.7B,$0 ,+$5.80B,UnitedKingdom,Finance
+224,Stephane Bancel ,$10.7B,-$83.7M,+$7.41B,France,Health Care
+225,Dietmar Hopp ,$10.5B,-$226M,+$803M,Germany,Technology
+226,Gordon Moore ,$10.5B,+$120M,+$221M,UnitedStates,Technology
+227,Christy Walton ,$10.5B,+$52.1M,+$474M,UnitedStates,Retail
+228,Cao Renxian ,$10.5B,-$462M,+$5.95B,China,Technology
+229,Patrick Soon-Shiong ,$10.5B,-$117M,-$936M,UnitedStates,Health Care
+230,Carl Cook ,$10.5B,-$100M,-$158M,UnitedStates,Health Care
+231,Michael Kadoorie ,$10.4B,-$6.14M,+$565M,HongKong,Energy
+232,Stan Druckenmiller ,$10.4B,$0 ,+$4.60B,UnitedStates,Finance
+233,Qian Dongqi ,$10.3B,+$297M,+$5.08B,China,Technology
+234,Stefano Pessina ,$10.3B,-$11.6M,+$1.50B,Monaco,Retail
+235,German Khan ,$10.2B,-$50.3M,+$449M,RussianFederation,Diversified
+236,Laurent Dassault ,$10.2B,-$45.1M,+$2.57B,France,Diversified
+237,Marie-Helene Habert-Dassault ,$10.2B,-$45.1M,+$2.57B,France,Diversified
+238,Thierry Dassault ,$10.2B,-$45.1M,+$2.57B,France,Diversified
+239,Johann Rupert&family ,$10.1B,-$155M,+$2.10B,SouthAfrica,Diversified
+240,Emmanuel Besnier ,$10.1B,-$110M,-$66.9M,France,Food&Beverage
+241,Marcel Telles ,$10.1B,-$279M,-$1.22B,Brazil,Food&Beverage
+242,Evan Spiegel ,$10.0B,-$310M,+$619M,UnitedStates,Technology
+243,John Albert Sobrato,$9.97B,$0 ,+$1.13B,UnitedStates,Real Estate
+244,Gianluigi Aponte ,$9.95B,$0 ,+$392M,Switzerland,Services
+245,Li Ge ,$9.94B,+$211M,+$2.14B,UnitedStates,Health Care
+246,Les Wexner ,$9.94B,-$2.02M,+$1.97B,UnitedStates,Retail
+247,Chen Zhiping ,$9.92B,+$152M,-$5.69B,China,Consumer
+248,Jay Y. Lee,$9.91B,-$268M,-$18.1B,Korea,Diversified
+249,Liu Yongxing ,$9.91B,-$17.7M,+$151M,China,Industrial
+250,John Fredriksen ,$9.86B,-$114M,+$1.16B,Cyprus,Industrial
+251,Li Ping ,$9.84B,+$469M,+$4.37B,China,Industrial
+252,Izzy Englander ,$9.82B,+$12.6M,+$3.06B,UnitedStates,Finance
+253,Graeme Hart ,$9.81B,+$51.5M,-$1.99B,New Zealand,Finance
+254,Liu Yonghao ,$9.79B,+$212M,-$3.57B,China,Diversified
+255,Ding Shizhong ,$9.77B,-$86.3M,+$24.4M,China,Consumer
+256,Zhong Huijuan ,$9.74B,-$264M,-$10.1B,China,Health Care
+257,KP Singh  ,$9.69B,+$30.1M,+$4.03B,India,Real Estate
+258,Leonid Fedun ,$9.66B,-$98.9M,+$2.99B,RussianFederation,Energy
+259,Jerry Jones ,$9.65B,-$43.8M,+$3.26B,UnitedStates,Entertainment
+260,Wee Cho Yaw,$9.61B,-$45.5M,+$1.13B,Singapore,Finance
+261,Andy Beal ,$9.59B,$0 ,+$786M,UnitedStates,Finance
+262,John Malone ,$9.53B,-$84.2M,+$1.45B,UnitedStates,Media&Telecom
+263,Georg Schaeffler ,$9.43B,-$104M,-$1.32B,Germany,Industrial
+264,August von Finck,$9.40B,-$43.2M,-$45.8M,Germany,Diversified
+265,Ding Shijia ,$9.39B,-$82.9M,-$91.5M,China,Consumer
+266,Patrick Drahi ,$9.38B,-$110M,-$4.87B,France,Media&Telecom
+267,Tim Sweeney ,$9.37B,$0 ,-$76.0M,UnitedStates,Technology
+268,Niels Louis-Hansen ,$9.30B,-$283M,+$8.01M,Denmark,Health Care
+269,Alexander Abramov ,$9.25B,-$60.9M,+$867M,RussianFederation,Industrial
+270,Theo Albrecht Jr,$9.20B,-$9.96M,+$543M,Germany,Retail
+271,Mitchell Rales ,$9.19B,+$229M,+$2.74B,UnitedStates,Industrial
+272,Rocco Commisso ,$9.15B,-$586M,-$780M,UnitedStates,Media&Telecom
+273,Rupert Murdoch ,$9.14B,-$122M,+$1.68B,UnitedStates,Media&Telecom
+274,Silvio Berlusconi ,$9.09B,-$126M,+$1.01B,Italy,Media&Telecom
+275,Luis Sarmiento ,$9.09B,+$23.5M,-$1.60B,Colombia,Finance
+276,Taylor Thomson ,$9.07B,+$63.1M,+$2.26B,Canada,Media&Telecom
+277,Alberto Bailleres ,$9.07B,-$292M,-$1.20B,Mexico,Commodities
+278,George Lucas ,$9.05B,-$22.6M,-$124M,UnitedStates,Entertainment
+279,David Thomson ,$9.05B,+$40.6M,+$2.24B,Canada,Media&Telecom
+280,Peter Thomson ,$9.05B,+$38.1M,+$2.24B,Canada,Media&Telecom
+281,Anthony Pratt ,$9.02B,-$39.7M,+$1.25B,Australia,Industrial
+282,Giorgio Armani ,$9.01B,+$44.3M,+$1.38B,Italy,Consumer
+283,Blair Parry-Okeden ,$9.00B,-$54.7M,-$251M,UnitedStates,Media&Telecom
+284,Jim Kennedy ,$9.00B,-$54.7M,-$251M,UnitedStates,Media&Telecom
+285,Samuel Yin ,$8.95B,+$30.3M,+$4.56B,Taiwan,Diversified
+286,Magdalena Martullo ,$8.93B,-$6.19M,+$418M,Switzerland,Industrial
+287,Hansjoerg Wyss ,$8.92B,-$44.0M,+$1.02M,Switzerland,Health Care
+288,Anthony von Mandl,$8.85B,$0 ,+$2.85B,Canada,Consumer
+289,Benu Bangur ,$8.80B,+$115M,+$1.23B,India,Commodities
+290,Joseph Tsai ,$8.73B,-$174M,-$3.91B,Canada,Technology
+291,Reinhold Schmieding ,$8.72B,-$234M,-$31.4M,UnitedStates,Health Care
+292,Wang Laisheng ,$8.69B,-$58.1M,-$1.14B,China,Industrial
+293,Carlos Sicupira ,$8.68B,-$262M,-$1.35B,Brazil,Food&Beverage
+294,Andy Bechtolsheim ,$8.66B,+$32.1M,+$1.80B,Germany,Technology
+295,Ernest Garcia III,$8.66B,+$147M,+$1.92B,UnitedStates,Consumer
+296,Nusli Wadia ,$8.66B,-$61.8M,+$765M,India,Diversified
+297,Rahel Blocher ,$8.65B,+$18.8M,+$368M,Switzerland,Industrial
+298,Robert Smith ,$8.65B,$0 ,+$1.60B,UnitedStates,Finance
+299,Pham Nhat Vuong,$8.62B,+$83.5M,+$98.5M,VietNam,Real Estate
+300,Tammy Gustavson ,$8.62B,+$8.30M,+$2.13B,UnitedStates,Services
+301,David Sun ,$8.57B,-$426M,-$1.48B,UnitedStates,Technology
+302,John Tu ,$8.57B,-$426M,-$1.48B,UnitedStates,Technology
+303,Shigenobu Nagamori ,$8.55B,+$79.4M,-$1.04B,Japan,Industrial
+304,Jude Reyes ,$8.49B,+$138M,+$551M,UnitedStates,Consumer
+305,Chris Reyes ,$8.49B,+$138M,+$551M,UnitedStates,Consumer
+306,Rahul Bajaj ,$8.49B,-$47.4M,+$2.92B,India,Diversified
+307,Michael Otto ,$8.49B,-$192M,-$1.57B,Germany,Retail
+308,Sandra Ortega Mera,$8.48B,-$52.3M,+$767M,Spain,Retail
+309,John Doerr ,$8.45B,+$94.0M,+$3.19B,UnitedStates,Finance
+310,Yu Yong ,$8.42B,+$182M,+$3.02B,China,Finance
+311,Iskandar Makhmudov ,$8.40B,-$116M,+$551M,RussianFederation,Commodities
+312,Stephen Ross ,$8.39B,$0 ,+$24.5M,UnitedStates,Real Estate
+313,James Pattison ,$8.34B,-$113M,+$747M,Canada,Media&Telecom
+314,Xavier Niel ,$8.32B,-$19.4M,+$1.01B,France,Technology
+315,Ned Johnson IV,$8.32B,-$77.7M,+$989M,UnitedStates,Finance
+316,Elizabeth Johnson ,$8.32B,-$75.4M,+$989M,UnitedStates,Finance
+317,Oleg Tinkov ,$8.30B,-$105M,+$4.30B,RussianFederation,Finance
+318,Martin Viessmann&family ,$8.29B,-$90.4M,+$1.30B,Germany,Industrial
+319,Chase Coleman ,$8.27B,+$10.6M,+$2.91B,UnitedStates,Finance
+320,Johann Graf ,$8.26B,+$70.8M,-$1.82B,Austria,Entertainment
+321,Mat Ishbia ,$8.26B,+$33.8M,-$3.09B,UnitedStates,Finance
+322,Wu Shaoxun ,$8.25B,-$112M,-$8.20B,China,Food&Beverage
+323,Jian Jun ,$8.24B,+$263M,+$3.57B,China,Consumer
+324,Wang Jianlin ,$8.22B,-$58.9M,-$6.84B,China,Real Estate
+325,Vincent Bollore ,$8.20B,-$206M,+$3.00B,France,Diversified
+326,Cen Junda ,$8.20B,-$8.74M,-$8.72B,China,Health Care
+327,Michael Rubin ,$8.19B,$0 ,$0 ,UnitedStates,Retail
+328,Richard Kinder ,$8.18B,-$154M,+$1.37B,UnitedStates,Energy
+329,Cai Kui ,$8.18B,-$73.8M,-$1.09B,China,Real Estate
+330,Yao Liangsong ,$8.16B,+$362M,-$248M,China,Retail
+331,Li Shuirong ,$8.16B,+$20.4M,-$3.60B,China,Energy
+332,Nicky Oppenheimer ,$8.15B,$0 ,+$1.00B,SouthAfrica,Diversified
+333,Ronda Stryker ,$8.13B,-$21.1M,+$912M,UnitedStates,Health Care
+334,Gabe Newell ,$8.13B,-$24.1M,-$1.04B,UnitedStates,Technology
+335,He Xiaopeng ,$8.13B,+$68.0M,+$663M,China,Technology
+336,Ralph Lauren ,$8.13B,+$64.1M,+$767M,UnitedStates,Consumer
+337,Cheng Xue ,$8.12B,+$25.3M,-$2.27B,China,Food&Beverage
+338,Natie Kirsh ,$8.10B,+$738M,+$1.64B,SouthAfrica,Food&Beverage
+339,Xu Shihui ,$8.10B,+$42.4M,+$151M,China,Food&Beverage
+340,Josh Harris ,$8.10B,-$53.3M,+$1.99B,UnitedStates,Finance
+341,Dennis Washington ,$8.07B,+$7.26M,+$941M,UnitedStates,Industrial
+342,Wang Laichun ,$8.06B,-$58.1M,-$1.78B,China,Industrial
+343,Frederik Paulsen ,$8.06B,-$85.3M,+$3.01B,Sweden,Health Care
+344,Zhao Yan ,$8.03B,+$313M,+$958M,China,Health Care
+345,Laurence Graff ,$8.01B,+$126M,+$1.82B,UnitedKingdom,Consumer
+346,John Sall ,$7.99B,+$66.5M,+$1.46B,UnitedStates,Technology
+347,Andrey Guryev ,$7.98B,-$201M,+$2.87B,RussianFederation,Industrial
+348,Liz Mohn ,$7.96B,-$230M,+$1.20B,Germany,Media&Telecom
+349,Leng You-Bin ,$7.96B,+$147M,-$2.78B,China,Consumer
+350,Tatyana Bakalchuk ,$7.96B,-$162M,-$1.13B,RussianFederation,Technology
+351,Steven Spielberg ,$7.90B,$0 ,+$750M,UnitedStates,Entertainment
+352,Charles Butt&family ,$7.88B,$0 ,+$2.56B,UnitedStates,Retail
+353,Frank Lowy ,$7.85B,-$75.0M,+$450M,Australia,Real Estate
+354,Juan Beckmann Vidal&family,$7.82B,+$141M,-$605M,Mexico,Food&Beverage
+355,Takahisa Takahara ,$7.80B,+$64.2M,-$1.30B,Japan,Consumer
+356,Shahid Khan ,$7.73B,+$2.35M,-$465M,UnitedStates,Consumer
+357,Alexey Kuzmichev ,$7.73B,-$58.2M,+$308M,RussianFederation,Diversified
+358,Shari Arison ,$7.72B,-$23.9M,+$1.17B,Israel,Diversified
+359,Lin Bin ,$7.69B,-$156M,-$4.14B,UnitedStates,Technology
+360,Chen Jianhua ,$7.66B,-$278M,-$1.62B,China,Industrial
+361,Guillaume Pousaz ,$7.65B,$0 ,$0 ,Switzerland,Technology
+362,Horst Pudwill ,$7.64B,-$25.7M,+$2.31B,Germany,Consumer
+363,Wang Yusuo ,$7.64B,+$504M,+$2.87B,China,Energy
+364,Tito Beveridge ,$7.61B,+$233M,+$696M,UnitedStates,Consumer
+365,Yu Renrong ,$7.57B,+$39.6M,+$1.27B,China,Technology
+366,Andre Hoffmann ,$7.56B,-$36.9M,+$1.64B,Switzerland,Health Care
+367,Alain Merieux ,$7.55B,-$67.4M,-$575M,France,Health Care
+368,George Soros ,$7.50B,$0 ,-$100M,UnitedStates,Finance
+369,Terry Pegula ,$7.46B,-$121k,+$1.16B,UnitedStates,Energy
+370,Nancy Laurie ,$7.45B,+$37.1M,+$475M,UnitedStates,Retail
+371,Anthony Bamford&family ,$7.44B,$0 ,-$382M,UnitedKingdom,Industrial
+372,Jorn Rausing ,$7.43B,-$130M,-$2.38B,Sweden,Services
+373,Axel Oberwelland ,$7.40B,-$47.4M,+$1.57B,Germany,Food&Beverage
+374,Sergey Gordeev ,$7.39B,+$55.4M,+$3.59B,RussianFederation,Real Estate
+375,Chip Wilson ,$7.35B,+$224M,+$1.39B,Canada,Retail
+376,Stef Wertheimer ,$7.35B,$0 ,+$825M,Israel,Diversified
+377,Manuel Villar ,$7.35B,-$6.91M,+$674M,Philippines,Diversified
+378,David Shaw ,$7.34B,+$11.1M,+$1.47B,UnitedStates,Finance
+379,Dan Cathy ,$7.33B,-$73.2M,+$1.34B,UnitedStates,Food&Beverage
+380,Bubba Cathy ,$7.33B,-$73.2M,+$1.34B,UnitedStates,Food&Beverage
+381,Hui Ka Yan,$7.28B,-$90.0M,-$16.0B,China,Real Estate
+382,Teh Hong Piow,$7.28B,-$15.3M,+$395M,Malaysia,Finance
+383,Ludwig Merckle ,$7.24B,-$58.5M,-$161M,Germany,Industrial
+384,Vyacheslav Kantor ,$7.23B,+$16.1M,+$2.04B,RussianFederation,Industrial
+385,Reed Hastings ,$7.23B,+$131M,+$483M,UnitedStates,Technology
+386,Peter Thiel ,$7.22B,+$36.2M,+$573M,UnitedStates,Finance
+387,Tom Gores ,$7.22B,$0 ,+$2.07B,UnitedStates,Finance
+388,Bob Rich ,$7.21B,$0 ,+$124M,UnitedStates,Food&Beverage
+389,Mohammed Al Amoudi,$7.20B,-$233M,-$366M,SaudiArabia,Energy
+390,Mark Shoen ,$7.20B,+$42.1M,+$2.38B,UnitedStates,Services
+391,Vyacheslav Kim ,$7.18B,+$158M,+$3.94B,Kazakhstan,Finance
+392,German Larrea ,$7.17B,-$15.2M,+$865M,Mexico,Commodities
+393,Denis Sverdlov ,$7.14B,+$155M,+$2.50B,RussianFederation,Technology
+394,Gwendolyn Sontheim Meyer,$7.13B,$0 ,+$1.10B,UnitedStates,Commodities
+395,Pauline Keinath ,$7.13B,$0 ,+$1.10B,UnitedStates,Commodities
+396,Chris Hohn ,$7.12B,-$13.3M,+$3.12B,UnitedKingdom,Finance
+397,Patrick Ryan ,$7.12B,+$56.7M,+$1.82B,UnitedStates,Services
+398,Linda Campbell ,$7.11B,+$24.6M,+$1.76B,Canada,Media&Telecom
+399,Gaye Farncombe ,$7.11B,+$24.6M,+$1.76B,Canada,Media&Telecom
+400,Jon Gray ,$7.10B,-$39.0M,+$3.22B,UnitedStates,Finance
+401,Mike Novogratz ,$7.07B,-$164M,+$4.11B,UnitedStates,Finance
+402,Peter-Alexander Wacker&family ,$7.05B,+$9.51M,+$1.32B,Germany,Industrial
+403,Vera Michalski-Hoffmann ,$7.03B,-$61.9M,+$1.18B,Switzerland,Health Care
+404,Maja Hoffmann ,$7.03B,-$61.9M,+$1.18B,Switzerland,Health Care
+405,Lynn Schusterman ,$7.02B,-$11.6M,+$815M,UnitedStates,Energy
+406,Yeung Kin-Man ,$7.02B,+$288M,+$1.79B,HongKong,Technology
+407,Lu Weiding ,$7.01B,-$36.0M,+$1.47B,China,Diversified
+408,Geoffrey Kwok ,$6.99B,+$49.2M,+$277M,HongKong,Real Estate
+409,Randa Williams ,$6.98B,-$71.7M,+$1.13B,UnitedStates,Energy
+410,Dannine Avara ,$6.98B,-$71.6M,+$1.12B,UnitedStates,Energy
+411,Scott Duncan ,$6.98B,-$71.6M,+$1.12B,UnitedStates,Energy
+412,Alexander Otto ,$6.97B,-$195M,-$1.03B,Germany,Real Estate
+413,Matthew Prince ,$6.96B,+$368M,+$4.09B,UnitedStates,Technology
+414,Milane Frantz ,$6.95B,-$71.1M,+$1.10B,UnitedStates,Energy
+415,Jane Lauder ,$6.94B,-$23.3M,+$1.23B,UnitedStates,Consumer
+416,Steve Feinberg ,$6.94B,-$17.1M,+$3.49B,UnitedStates,Finance
+417,Ruan Liping ,$6.89B,+$38.8M,-$1.67B,China,Industrial
+418,Mikheil Lomtadze ,$6.89B,+$152M,+$3.66B,Georgia,Finance
+419,Ashwin Dani&family ,$6.88B,-$48.1M,+$1.07B,India,Industrial
+420,Nassef Sawiris ,$6.87B,-$67.8M,+$273M,Egypt,Industrial
+421,Ruan Xueping ,$6.87B,+$38.8M,-$1.67B,China,Industrial
+422,Fredrik Lundberg ,$6.85B,-$104M,+$447M,Sweden,Real Estate
+423,Joseph Lau ,$6.82B,-$12.0M,-$830M,HongKong,Real Estate
+424,Seo Jung-Jin ,$6.79B,-$604M,-$8.31B,Korea,Health Care
+425,Ivan Glasenberg ,$6.79B,+$27.6M,+$2.35B,Australia,Commodities
+426,Edward Roski ,$6.78B,$0 ,+$952M,UnitedStates,Real Estate
+427,Simon Reuben ,$6.75B,$0 ,+$400M,UnitedKingdom,Diversified
+428,David Reuben ,$6.75B,$0 ,+$400M,UnitedKingdom,Diversified
+429,Gao Dekang ,$6.74B,-$61.4M,+$2.19B,China,Consumer
+430,Henry Samueli ,$6.74B,+$17.3M,+$851M,UnitedStates,Technology
+431,Ronald McAulay ,$6.74B,+$14.5M,+$426M,HongKong,Energy
+432,Nik Storonsky ,$6.69B,$0 ,+$5.49B,UnitedKingdom,Finance
+433,Petr Aven ,$6.68B,-$7.42M,+$566M,RussianFederation,Diversified
+434,J K Irving,$6.66B,+$27.8M,+$408M,Canada,Commodities
+435,Marc Rowan ,$6.65B,-$51.9M,+$1.55B,UnitedStates,Finance
+436,Hiroshi Mikitani ,$6.65B,+$21.7M,+$717M,Japan,Retail
+437,Idan Ofer ,$6.62B,-$8.99M,+$1.72B,Israel,Energy
+438,Frank Wang ,$6.60B,+$3.50M,-$3.05B,China,Technology
+439,Zhang Lei ,$6.60B,+$3.33M,+$958M,China,Finance
+440,Tony Ressler ,$6.56B,-$94.3M,+$2.40B,UnitedStates,Finance
+441,David Bonderman ,$6.55B,-$25.6M,+$1.99B,UnitedStates,Finance
+442,Olav Thon ,$6.51B,-$229M,+$682M,Norway,Real Estate
+443,Mahendra Choksi&family ,$6.51B,-$71.5M,+$558M,India,Industrial
+444,Joe Lewis ,$6.48B,-$50.5M,-$17.6M,UnitedKingdom,Diversified
+445,Charles Cadogan ,$6.46B,-$25.0M,-$602M,UnitedKingdom,Real Estate
+446,Su Hua ,$6.44B,-$21.1M,-$748M,China,Technology
+447,Martin Lorentzon ,$6.44B,+$9.36M,-$704M,Sweden,Technology
+448,Jean-Pierre Cayard ,$6.43B,-$130M,+$668M,France,Food&Beverage
+449,Marcos Galperin ,$6.43B,-$140M,-$625M,Argentina,Technology
+450,Bin Li ,$6.42B,-$227M,-$1.10B,China,Technology
+451,Tsai Eng-Meng ,$6.42B,+$63.5M,+$471M,Taiwan,Food&Beverage
+452,Ann Kroenke ,$6.41B,+$38.7M,+$310M,UnitedStates,Retail
+453,Kjeld Kirk Kristiansen,$6.41B,-$110M,-$698M,Denmark,Consumer
+454,Lai Meisong ,$6.40B,-$182M,+$229M,China,Services
+455,Ken Fisher ,$6.35B,+$2.96M,+$2.24B,UnitedStates,Finance
+456,Abhay Vakil&family ,$6.32B,-$45.6M,+$544M,India,Industrial
+457,Tom Morris ,$6.30B,-$42.9M,+$700M,UnitedKingdom,Retail
+458,Leonard Stern ,$6.27B,$0 ,+$774M,UnitedStates,Real Estate
+459,Kenneth Dart ,$6.25B,-$152M,-$64.4M,Cayman,Islands
+460,Jean-Michel Besnier ,$6.24B,-$68.1M,-$41.3M,France,Food&Beverage
+461,Pat Stryker ,$6.22B,-$27.3M,+$550M,UnitedStates,Health Care
+462,Sam Zell ,$6.22B,-$15.7M,+$1.07B,UnitedStates,Real Estate
+463,Jeffery Hildebrand ,$6.21B,+$68.5M,+$3.12B,UnitedStates,Energy
+464,Joe Mansueto ,$6.21B,-$69.2M,+$1.53B,UnitedStates,Technology
+465,Wang Yanqing ,$6.20B,+$156M,+$1.82B,China,Technology
+466,Arthur Irving ,$4.34B,$0 ,-$3.19B,Canada,Energy
+467,Sofie Kirk Kristiansen,$6.19B,-$85.0M,-$748M,Denmark,Consumer
+468,Agnete Kirk Thinggaard,$6.19B,-$85.0M,-$748M,Denmark,Consumer
+469,Thomas Kirk Kristiansen,$6.19B,-$85.0M,-$748M,Denmark,Consumer
+470,Ray Hunt ,$6.18B,-$10.4M,+$1.46B,UnitedStates,Energy
+471,Terry Gou ,$6.16B,-$15.4M,-$446M,Taiwan,Industrial
+472,Hui Wing Mau,$6.15B,-$96.0M,-$3.35B,HongKong,Real Estate
+473,Henry Laufer ,$6.15B,$0 ,+$900M,UnitedStates,Finance
+474,M A Yusuff Ali,$6.13B,-$30.6M,+$702M,UAE,Food&Beverage
+475,Johan Johannson&family ,$6.12B,-$92.3M,+$780M,Norway,Retail
+476,Richard Branson ,$6.12B,+$5.78M,+$398M,UnitedKingdom,Diversified
+477,Tony James ,$6.12B,-$27.4M,+$2.41B,UnitedStates,Finance
+478,Jiang Bin ,$6.12B,+$210M,+$33.7M,China,Technology
+479,Denise Coates ,$6.10B,-$92.0M,-$4.14B,UnitedKingdom,Entertainment
+480,Andreas Halvorsen ,$6.10B,+$8.94M,+$2.03B,Norway,Finance
+481,Lin Muqin ,$6.10B,-$93.8M,+$4.51B,China,Consumer
+482,Wang Wenjing ,$6.09B,+$171M,-$1.77B,China,Technology
+483,Barry Lam ,$6.09B,-$31.8M,+$585M,Taiwan,Technology
+484,Kim Jung-Ju ,$6.08B,-$214M,-$4.23B,SouthKorea,Technology
+485,Kei Hoi Pang,$6.08B,-$61.9M,-$2.33B,China,Real Estate
+486,Antti Herlin ,$6.05B,+$46.7M,-$778M,Finland,Industrial
+487,Bidzina Ivanishvili ,$6.05B,$0 ,+$375M,Georgia,Diversified
+488,Richard Li ,$5.99B,-$10.9M,+$1.06B,HongKong,Media&Telecom
+489,Robert Kraft ,$5.99B,-$486k,+$980M,UnitedStates,Entertainment
+490,Katharine Rayner ,$5.96B,-$36.2M,-$156M,UnitedStates,Media&Telecom
+491,Margaretta Taylor ,$5.95B,-$36.2M,-$166M,UnitedStates,Media&Telecom
+492,James Cox Chambers,$5.95B,-$36.2M,-$166M,UnitedStates,Media&Telecom
+493,Mark Cuban ,$5.95B,$0 ,+$1.03B,UnitedStates,Technology
+494,Eric Smidt ,$5.94B,+$42.1M,+$354M,UnitedStates,Retail
+495,Majid Al Futtaim,$5.92B,-$6.33M,-$686M,UAE,Real Estate
+496,Barry Diller ,$5.92B,-$73.5M,+$366M,UnitedStates,Technology
+497,Cliff Obrecht ,$5.89B,$0 ,+$4.99B,Australia,Services
+498,Melanie Perkins ,$5.89B,$0 ,+$4.99B,Australia,Services
+499,Trevor Rees-Jones ,$5.89B,-$106M,+$898M,UnitedStates,Energy
+500,Frits Goldschmeding ,$5.88B,-$90.7M,+$621M,Netherlands,Retail
